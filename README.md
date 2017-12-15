@@ -5,7 +5,9 @@ Write a PHP function that accepts two parameters, both of them being an array(�
 ## Requirements:
 
 ●	function should accept two arrays
+
 ●	function should returnone (new) array
+
 ●	your function should use the return statement
 
 ## Use these sample arrays as input parameters:
